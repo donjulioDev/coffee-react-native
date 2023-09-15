@@ -1,0 +1,8 @@
+Dockerfile
+.dockerignore
+.gitignore
+node_modules
+nmp-debug.log
+README.md
+build
+
